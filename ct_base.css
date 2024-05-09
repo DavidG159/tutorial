@@ -237,3 +237,7 @@ table {
 td, th {
 	vertical-align: top;
 }
+
+#photo1{
+	border-radius:15px;
+}
